@@ -24,7 +24,7 @@ Este script Python permite automatizar el proceso de envío de información sobr
 1. Asegúrate de tener Python 3.7+ instalado junto con las bibliotecas necesarias.
 2. Clona o descarga este repositorio.
 3. En la carpeta `data`, ajusta tus configuraciones y datos en los archivos JSON y CSV correspondientes.
-4. Ejecuta el script con `python <nombre del archivo>.py`.
+4. Ejecuta el script con `python sece.py`.
 5. Revisa la consola para ver el estado de cada petición enviada.
 
 ### Importante
